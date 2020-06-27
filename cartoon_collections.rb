@@ -1,5 +1,5 @@
 def roll_call_dwarves(["Doc", "Dopey","Bashful", "Grumpy"])
-  array.each_
+  array.each_with_index
  
 end
 
