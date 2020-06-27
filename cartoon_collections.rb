@@ -1,7 +1,7 @@
-def roll_call_dwarves["Doc", "Dopey","Bashful", "Grumpy"]
+#def roll_call_dwarves["Doc", "Dopey","Bashful", "Grumpy"]
   
  
-end
+#end
 
 def summon_captain_planet(planeteer_calls)
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
